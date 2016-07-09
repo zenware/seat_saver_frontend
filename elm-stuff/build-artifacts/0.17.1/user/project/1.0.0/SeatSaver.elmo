@@ -1,0 +1,2 @@
+var _user$project$SeatSaver$view = _elm_lang$html$Html$text('Woohoo I\'m in a view!');
+var _user$project$SeatSaver$main = {main: _user$project$SeatSaver$view};
